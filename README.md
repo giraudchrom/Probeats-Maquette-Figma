@@ -83,7 +83,7 @@ Le projet respecte les fonctionnalités e-commerce, l’identité graphique impo
 ---
 
 ## 🚀 Export & utilisation
-1. **Fichier Figma** : [Télécharger ici](./fig/Probeats)  
+1. **Fichier Figma** : [Télécharger ici](https://github.com/giraudchrom/Probeats-Maquette-Figma/commit/dc7859e31d920cba43825cbaed82439e1960a2e4#diff-65d2add06083dfd66e61a19ac3fcc69c376faa1995c44a5c9b5468a8ea9bec63)  
 2. **Importer dans Figma** :  
    - Ouvrir [Figma](https://www.figma.com/)  
    - Cliquer **Import** → sélectionner `Probeats.fig`  

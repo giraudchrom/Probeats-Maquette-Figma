@@ -88,9 +88,8 @@ Le projet respecte les fonctionnalités e-commerce, l’identité graphique impo
    - Ouvrir [Figma](https://www.figma.com/)  
    - Cliquer **Import** → sélectionner `Probeats.fig`  
 3. Naviguer entre :  
-   - `02_Desktop` → Wireframes desktop  
-   - `03_Mobile` → Wireframes mobiles  
-   - `04_Prototypes` → Interactions  
+   - `02_Desktop` → Wireframes desktop (Interactions) 
+   - `03_Mobile` → Wireframes mobiles    
 
 ---
 
